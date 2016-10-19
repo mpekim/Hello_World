@@ -9,3 +9,10 @@ Date: October 18th, 2016
 
 Program Purpose: A simple "Hello World!" program to add to my "Hello_World" Reprository.
 *****************************/
+
+int main()
+{
+  cout << "Hello World!\n" << endl;
+  
+  return 0;
+}
